@@ -6,7 +6,7 @@ A full-featured e-commerce application built with Laravel, featuring Stripe inte
 
 ## Demo
 
-- **Live Demo**: [https://laravelecommerceexample.ca](https://laravelecommerceexample.ca)
+- **Live Demo**: [https://laravelecommerce.uk](https://laravelecommerce.uk)
 - **Video Tutorial Series**: [Watch on YouTube](https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR)
 
 *Note: The demo site has limited permissions. For full access, please install locally.*
